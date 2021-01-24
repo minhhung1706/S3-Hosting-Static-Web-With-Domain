@@ -84,6 +84,7 @@ Chú ý: Dòng **Do you want to automatic cally renew your domain**
 
 16 Check Log Bucket, nếu configured đúng sẽ ghi lại log
 ![](images/Finally-checking-LOG-Bucket-Config-Correctly-Created-Logs.jpg)
+
 ---
 # Hãy nhớ xoá đi tất cả những gì đã làm khi xong lab để tránh chi trả phí AWS không mong muốn
 
